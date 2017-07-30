@@ -1,0 +1,30 @@
+hr {
+    background-color: #7d97ad;
+    color: #7d97ad;
+    border: none;
+    height: 5px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    margin-top: 2%;
+}
+
+#main {
+    width: 1140px;
+    height: 450px;
+    margin-top: 2%;
+}
+
+#title {
+    color: #2d3c49;
+}
+
+#subtitle {
+    color: #2d3c49;
+}
+
+#galary-title {
+    color: #7d97ad;
+}
