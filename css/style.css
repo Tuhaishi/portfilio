@@ -8,6 +8,7 @@
 .img-responsive {
     margin: 0 auto;
 }
+
 hr {
     background-color: #7d97ad;
     color: #7d97ad;
@@ -23,7 +24,7 @@ hr {
 
 #main {
     width: 1140px;
-    height: 450px;
+    height: auto;
     margin-top: 2%;
 }
 
