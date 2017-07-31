@@ -5,6 +5,9 @@
     box-sizing: border-box;
 }
 
+.img-responsive {
+    margin: 0 auto;
+}
 hr {
     background-color: #7d97ad;
     color: #7d97ad;
